@@ -16,10 +16,9 @@ bool isEsc(string es)
 void Info()
 {
 	cout << "this is not right commands" << endl;
-	cout << "you need at less 2 commands or 3 not more or less" << endl;
-	cout << "For example < pp2.exe 3> then (0 or 1)" << endl;
-	cout << "For example < pp2.exe 3> <clients number> then (0 or 1)" << endl;
-	cout << "SynchronousPrimitiveOption: CriticalSection = 0, Mutex = 1" << endl;
+	cout << "you need at less 3 commands" << endl;
+	cout << "For example < pp2.exe 3> <clients number> then (0 or 1) SynchronousPrimitiveOption: CriticalSection = 0, Mutex = 1" << endl;
+
 }
 
 int main(int argc, char *argv[])
@@ -53,7 +52,7 @@ int main(int argc, char *argv[])
 			break;
 	}
 
-	for (CBankClient client : bank->GetTotalClients()) {
+	for (CBankClient client : bank->totalClients()) {
 		auto clientBalance = bank->getClientBalance(client.GetId());
 
 		ClientsBalance += clientBalance;

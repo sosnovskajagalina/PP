@@ -61,15 +61,13 @@ void CBank::setClientBalance(int clientId, int value)
 {	//here we search for the client by his id
 	auto Balance = ClientBalance.find(clientId);
 	//then if this is the end of list butting his last balance if not adding the new one
-	if (Balance == ClientBalance.end()) {
+	if (Balance == ClientBalance.end()) 
 		ClientBalance.emplace(clientId, value);
-	}
-	else {
+	else 
 		Balance->second += value;
-	}
 }
 
-vector<CBankClient> CBank::GetTotalClients() {
+vector<CBankClient> CBank::totalClients() {
 	return m_clients;
 }
 
