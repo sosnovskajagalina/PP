@@ -1,0 +1,8 @@
+1 AUD Price 45,5333 руб
+1 BYN Price 31,0831 руб
+1 BGN Price 37,4865 руб
+1 USD Price 65,234 руб
+1 EUR Price 73,2708 руб
+100 INR Price 94,2075 руб
+10 CZK Price 28,5726 руб
+1 CHF Price 65,608 руб
