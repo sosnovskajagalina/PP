@@ -1,0 +1,11 @@
+﻿  new Not P.cpp
+f:\gehad\university\sixth semester\пп\lab1\new not p\new not p\new not p.cpp(52): warning C4018: '<': signed/unsigned mismatch
+f:\gehad\university\sixth semester\пп\lab1\new not p\new not p\new not p.cpp(54): warning C4018: '<': signed/unsigned mismatch
+f:\gehad\university\sixth semester\пп\lab1\new not p\new not p\new not p.cpp(60): warning C4018: '<': signed/unsigned mismatch
+f:\gehad\university\sixth semester\пп\lab1\new not p\new not p\new not p.cpp(76): warning C4018: '<': signed/unsigned mismatch
+f:\gehad\university\sixth semester\пп\lab1\new not p\new not p\new not p.cpp(81): warning C4018: '<': signed/unsigned mismatch
+f:\gehad\university\sixth semester\пп\lab1\new not p\new not p\new not p.cpp(102): warning C4018: '<': signed/unsigned mismatch
+f:\gehad\university\sixth semester\пп\lab1\new not p\new not p\new not p.cpp(119): warning C4018: '<': signed/unsigned mismatch
+f:\gehad\university\sixth semester\пп\lab1\new not p\new not p\new not p.cpp(135): warning C4018: '<': signed/unsigned mismatch
+f:\gehad\university\sixth semester\пп\lab1\new not p\new not p\new not p.cpp(162): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  new Not P.vcxproj -> F:\Gehad\university\sixth semester\ПП\lab1\new Not P\Debug\new Not P.exe
