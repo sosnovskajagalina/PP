@@ -1,0 +1,7 @@
+C:\Users\GEHAD\Desktop\pplab4\pplab4\bin\Debug\pplab4.exe.config
+C:\Users\GEHAD\Desktop\pplab4\pplab4\bin\Debug\pplab4.exe
+C:\Users\GEHAD\Desktop\pplab4\pplab4\bin\Debug\pplab4.pdb
+C:\Users\GEHAD\Desktop\pplab4\pplab4\obj\Debug\pplab4.csprojAssemblyReference.cache
+C:\Users\GEHAD\Desktop\pplab4\pplab4\obj\Debug\pplab4.csproj.CoreCompileInputs.cache
+C:\Users\GEHAD\Desktop\pplab4\pplab4\obj\Debug\pplab4.exe
+C:\Users\GEHAD\Desktop\pplab4\pplab4\obj\Debug\pplab4.pdb
